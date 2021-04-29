@@ -1,0 +1,4 @@
+name: StratumCreative
+version: ${project.version}
+main: tech.quilldev.stratumcreative.StratumCreative
+api-version: 1.16
